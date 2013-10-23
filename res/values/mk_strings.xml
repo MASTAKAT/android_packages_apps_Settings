@@ -28,4 +28,10 @@
     <!-- Lockscreen see through -->
     <string name="see_through_title">See through</string>
     <string name="see_through_summary">Shows the content behind your lockscreen, your data may be visible to those around you</string>
+    <!-- Link volumes -->
+    <string name="link_volume_ringtones">Link ringtone &amp; notifications volumes</string>
+    <string name="volume_ring_only_description">Ringtone</string>
+    <!-- Volume adjust sounds -->
+    <string name="volume_adjust_sounds_enable_title">Volume adjust sound</string>
+    <string name="volume_adjust_sounds_enable_summary">Play sound when adjusting volume with hard keys</string>
 </resources>
