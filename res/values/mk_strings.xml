@@ -34,4 +34,10 @@
     <!-- Volume adjust sounds -->
     <string name="volume_adjust_sounds_enable_title">Volume adjust sound</string>
     <string name="volume_adjust_sounds_enable_summary">Play sound when adjusting volume with hard keys</string>
+    <!-- Battery Icon selection -->
+    <string name="battery_status_icon_title">Status icon</string>
+    <string name="battery_bar">Battery bar</string>
+    <string name="battery_bar_percent">Battery bar &amp; percent</string>
+    <string name="battery_circle">Battery circle</string>
+    <string name="battery_circle_percent">Battery circle &amp; percent</string>
 </resources>
